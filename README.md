@@ -13,3 +13,4 @@
   
 [1. 사용중인 파이썬 버전을 알아두라](./summary/1.사용중인_파이썬_버전을_알아두라.md)  
 [2. PEP 8 Style 가이드를 따르라](./summary/2.PEP_8_Style_가이드를_따르라.md)  
+[3. bytes 와 str의 차이를 알아두라](./summary/3.bytes_와_str의_차이를_알아두라.md)  
