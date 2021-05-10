@@ -15,3 +15,4 @@
 [2. PEP 8 Style 가이드를 따르라](./summary/BetterWay02.md)  
 [3. bytes 와 str의 차이를 알아두라](./summary/BetterWay03.md)  
 [4. C 스타일 형식 문자열을 str.format과 쓰기보다는 f-문자열을 통한 인터폴레이션을 사용하라](./summary/BetterWay04.md)  
+[5. 복잡한 식을 쓰는 대신 도우미 함수를 작성하라](./summary/BetterWay05.md)  
