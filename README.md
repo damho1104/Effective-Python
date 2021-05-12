@@ -17,3 +17,4 @@
 [4. C 스타일 형식 문자열을 str.format과 쓰기보다는 f-문자열을 통한 인터폴레이션을 사용하라](./summary/BetterWay04.md)  
 [5. 복잡한 식을 쓰는 대신 도우미 함수를 작성하라](./summary/BetterWay05.md)  
 [6. 인덱스를 사용하는 대신 대입을 사용해 데이터를 언패킹하라](./summary/BetterWay06.md)  
+[7. range 보다는 enumerate를 사용하라](./summary/BetterWay07.md)  
