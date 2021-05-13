@@ -18,3 +18,4 @@
 [5. 복잡한 식을 쓰는 대신 도우미 함수를 작성하라](./summary/BetterWay05.md)  
 [6. 인덱스를 사용하는 대신 대입을 사용해 데이터를 언패킹하라](./summary/BetterWay06.md)  
 [7. range 보다는 enumerate를 사용하라](./summary/BetterWay07.md)  
+[8. 여러 이터레이터에 대해 나란히 루프를 수행하려면 zip을 사용해라](./summary/BetterWay08.md)  
