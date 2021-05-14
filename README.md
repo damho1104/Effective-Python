@@ -19,3 +19,4 @@
 [6. 인덱스를 사용하는 대신 대입을 사용해 데이터를 언패킹하라](./summary/BetterWay06.md)  
 [7. range 보다는 enumerate를 사용하라](./summary/BetterWay07.md)  
 [8. 여러 이터레이터에 대해 나란히 루프를 수행하려면 zip을 사용해라](./summary/BetterWay08.md)  
+[9. for 나 while 루프 뒤에 else 블록을 사용하지 말라](./summary/BetterWay09.md)  
