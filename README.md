@@ -20,3 +20,4 @@
 [7. range 보다는 enumerate를 사용하라](./summary/BetterWay07.md)  
 [8. 여러 이터레이터에 대해 나란히 루프를 수행하려면 zip을 사용해라](./summary/BetterWay08.md)  
 [9. for 나 while 루프 뒤에 else 블록을 사용하지 말라](./summary/BetterWay09.md)  
+[10. 대입식을 사용해 반복을 피하라](./summary/BetterWay10.md)  
