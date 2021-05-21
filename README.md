@@ -23,3 +23,4 @@
 [10. 대입식을 사용해 반복을 피하라](./summary/BetterWay10.md)  
 [11. 시퀀스를 슬라이싱하는 방법을 익혀라](./summary/BetterWay11.md)  
 [12. 스트라이드와 슬라이스를 한 식에 함께 사용하지 말라](./summary/BetterWay12.md)  
+[13. 슬라이싱보다는 나머지를 모두 잡아내는 언패킹을 사용하라](./summary/BetterWay13.md)  
