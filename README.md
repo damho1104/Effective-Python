@@ -25,3 +25,4 @@
 [12. 스트라이드와 슬라이스를 한 식에 함께 사용하지 말라](./summary/BetterWay12.md)  
 [13. 슬라이싱보다는 나머지를 모두 잡아내는 언패킹을 사용하라](./summary/BetterWay13.md)  
 [14. 복잡한 기준을 사용해 정렬할 때는 key 파라미터를 사용하라](./summary/BetterWay14.md)  
+[15. 딕셔너리 삽입 순서에 의존할 때는 조심하라](./summary/BetterWay15.md)  
