@@ -30,3 +30,4 @@
 [14. 복잡한 기준을 사용해 정렬할 때는 key 파라미터를 사용하라](./summary/BetterWay14.md)  
 [15. 딕셔너리 삽입 순서에 의존할 때는 조심하라](./summary/BetterWay15.md)  
 [16. in 을 사용하고 딕셔너리 키가 없을 때 KeyError를 처리하기 보다는 get 을 사용하라](./summary/BetterWay16.md)  
+[17. 내부 상태에서 원소가 없는 경우를 처리할 때는 setdefault보다 defaultdict를 사용하라](./summary/BetterWay17.md)  
