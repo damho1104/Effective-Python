@@ -23,7 +23,7 @@
 [10. 대입식을 사용해 반복을 피하라](./summary/BetterWay10.md)  
 
 ### 2장 리스트와 딕셔너리
-
+  
 [11. 시퀀스를 슬라이싱하는 방법을 익혀라](./summary/BetterWay11.md)  
 [12. 스트라이드와 슬라이스를 한 식에 함께 사용하지 말라](./summary/BetterWay12.md)  
 [13. 슬라이싱보다는 나머지를 모두 잡아내는 언패킹을 사용하라](./summary/BetterWay13.md)  
@@ -32,3 +32,7 @@
 [16. in 을 사용하고 딕셔너리 키가 없을 때 KeyError를 처리하기 보다는 get 을 사용하라](./summary/BetterWay16.md)  
 [17. 내부 상태에서 원소가 없는 경우를 처리할 때는 setdefault보다 defaultdict를 사용하라](./summary/BetterWay17.md)  
 [18. \_\_missing\_\_ 을 사용해 키에 따라 다른 디폴트 값을 생성하는 방법을 알아두라](./summary/BetterWay18.md)  
+
+### 3장 함수
+  
+[19. 함수가 여러 값을 반환하는 경우 절대로 4 값 이상을 언패킹하지 말라](./summary/BetterWay19.md)  
