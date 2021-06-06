@@ -36,3 +36,4 @@
 ### 3장 함수
   
 [19. 함수가 여러 값을 반환하는 경우 절대로 4 값 이상을 언패킹하지 말라](./summary/BetterWay19.md)  
+[20. None 을 반환하기보다는 예외를 발생시켜라](./summary/BetterWay20.md)  
