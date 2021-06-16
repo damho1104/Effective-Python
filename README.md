@@ -40,3 +40,4 @@
 [21. 변수 영역과 클로저의 상호작용 방식을 이해하라](./summary/BetterWay21.md)  
 [22. 변수 위치 인자를 사용해 시각적인 잡음을 줄여라](./summary/BetterWay22.md)  
 [23. 키워드 인자로 선택적인 기능을 제공하라](./summary/BetterWay23.md)  
+[24. None 과 독스트링을 사용해 동적인 디폴트 인자를 지정하라](./summary/BetterWay24.md)  
