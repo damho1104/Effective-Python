@@ -42,3 +42,4 @@
 [23. 키워드 인자로 선택적인 기능을 제공하라](./summary/BetterWay23.md)  
 [24. None 과 독스트링을 사용해 동적인 디폴트 인자를 지정하라](./summary/BetterWay24.md)  
 [25. 위치로만 인자를 지정하게 하거나 키워드로만 인자를 지정하게 해서 함수 호출을 명확하게 만들라](./summary/BetterWay25.md)  
+[26. functools.wrap 을 사용해 함수 데코레이터를 정의하라](./summary/BetterWay26.md)  
