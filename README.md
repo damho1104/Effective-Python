@@ -47,4 +47,5 @@
 ### 4장 컴프리헨션과 제너레이터
   
 [27. map과 filter 대신 컴프리헨션을 사용하라](./summary/BetterWay27.md)  
-
+[28. 컴프리헨션 내부에 제어 하위 식을 세 개 이상 사용하지 말라](./summary/BetterWay28.md)  
+  
