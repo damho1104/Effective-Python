@@ -49,3 +49,4 @@
 [27. map과 filter 대신 컴프리헨션을 사용하라](./summary/BetterWay27.md)  
 [28. 컴프리헨션 내부에 제어 하위 식을 세 개 이상 사용하지 말라](./summary/BetterWay28.md)  
 [29. 대입식을 사용해 컴프리헨션 안에서 반복 작업을 피해라](./summary/BetterWay29.md)    
+[30. 리스트를 반환하기보다는 제너레이터를 사용하라](./summary/BetterWay30.md)    
