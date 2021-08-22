@@ -52,3 +52,4 @@
 [30. 리스트를 반환하기보다는 제너레이터를 사용하라](./summary/BetterWay30.md)    
 [31. 인자에 대해 이터레이션할 때는 방어적이 돼라](./summary/BetterWay31.md)    
 [32. 긴 리스트 컴프리헨션보다는 제너레이터 식을 사용하라](./summary/BetterWay32.md)    
+[33. yield from 을 사용해 여러 제너레이터를 합성하라](./summary/BetterWay33.md)    
