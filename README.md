@@ -53,3 +53,4 @@
 [31. 인자에 대해 이터레이션할 때는 방어적이 돼라](./summary/BetterWay31.md)    
 [32. 긴 리스트 컴프리헨션보다는 제너레이터 식을 사용하라](./summary/BetterWay32.md)    
 [33. yield from 을 사용해 여러 제너레이터를 합성하라](./summary/BetterWay33.md)    
+[34. send 로 제너레이터에 데이터를 주입하지 말라](./summary/BetterWay34.md)    
