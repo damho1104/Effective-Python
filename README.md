@@ -55,3 +55,4 @@
 [33. yield from 을 사용해 여러 제너레이터를 합성하라](./summary/BetterWay33.md)    
 [34. send 로 제너레이터에 데이터를 주입하지 말라](./summary/BetterWay34.md)    
 [35. 제너레이터 안에서 throw 로 상태를 변화시키지 말라](./summary/BetterWay35.md)    
+[36. 이터레이터나 제너레이터를 다룰 때는 itertools 를 사용하라](./summary/BetterWay36.md)    
