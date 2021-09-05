@@ -56,3 +56,7 @@
 [34. send 로 제너레이터에 데이터를 주입하지 말라](./summary/BetterWay34.md)    
 [35. 제너레이터 안에서 throw 로 상태를 변화시키지 말라](./summary/BetterWay35.md)    
 [36. 이터레이터나 제너레이터를 다룰 때는 itertools 를 사용하라](./summary/BetterWay36.md)    
+
+### 5장 클래스와 인터페이스
+  
+[37. 내장 타입을 여러 단계로 내포시키기보다는 클래스를 합성하라](./summary/BetterWay37.md)  
