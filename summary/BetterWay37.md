@@ -132,7 +132,7 @@ average_grade = total / total_weight
 
 - 원소가 3개 이상인 tuple 을 사용해야 할 경우
     - `namedtuple` 사용
-        - `**namedtuple`의 한계**
+        - **`namedtuple`의 한계**
             - 디폴트 인자 지정 불가
                 - 프로퍼티가 4~5개 보다 많아지면 `dataclasses` 내장 모듈을 사용하는 것을 추천
             - 모든 부분을 제어할 수 있는 상황이 아닌 경우 명시적으로 새로운 클래스를 정의하는 것이 나음
