@@ -63,3 +63,4 @@
 [38. 간단한 인터페이스의 경우 클래스 대신 함수를 받아라](./summary/BetterWay38.md)  
 [39. 객체를 제너릭하게 구성하려면 @classmethod를 통한 다형성을 활용하라](./summary/BetterWay39.md)  
 [40. super 로 부모 클래스를 초기화하라](./summary/BetterWay40.md)  
+[41. 기능을 합성할 때는 믹스인 클래스를 사용하라](./summary/BetterWay41.md)  
