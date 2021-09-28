@@ -65,3 +65,4 @@
 [40. super 로 부모 클래스를 초기화하라](./summary/BetterWay40.md)  
 [41. 기능을 합성할 때는 믹스인 클래스를 사용하라](./summary/BetterWay41.md)  
 [42. 비공개 애트리뷰트보다는 공개 애트리뷰트를 사용하라](./summary/BetterWay42.md)  
+[43. 커스텀 컨테이너 타입은 collections.abc 를 상속하라](./summary/BetterWay43.md)  
