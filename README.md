@@ -66,3 +66,7 @@
 [41. 기능을 합성할 때는 믹스인 클래스를 사용하라](./summary/BetterWay41.md)  
 [42. 비공개 애트리뷰트보다는 공개 애트리뷰트를 사용하라](./summary/BetterWay42.md)  
 [43. 커스텀 컨테이너 타입은 collections.abc 를 상속하라](./summary/BetterWay43.md)  
+
+### 6장 메타클래스와 애트리뷰트
+
+[44. 세터와 게터 메서드 대신 평범한 애트리뷰트를 사용하라](./summary/BetterWay44.md)  
