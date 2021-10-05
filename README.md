@@ -70,3 +70,4 @@
 ### 6장 메타클래스와 애트리뷰트
 
 [44. 세터와 게터 메서드 대신 평범한 애트리뷰트를 사용하라](./summary/BetterWay44.md)  
+[45. 애트리뷰트를 리팩터링하는 대신 @property 를 사용하라](./summary/BetterWay45.md)  
