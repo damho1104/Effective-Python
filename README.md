@@ -72,3 +72,4 @@
 [44. 세터와 게터 메서드 대신 평범한 애트리뷰트를 사용하라](./summary/BetterWay44.md)  
 [45. 애트리뷰트를 리팩터링하는 대신 @property 를 사용하라](./summary/BetterWay45.md)  
 [46. 재사용 가능한 @property 메소드를 만들려면 디스크립터를 사용하라](./summary/BetterWay46.md)  
+[47. 지연 계산 애트리뷰트가 필요하면 \_\_getattr\_\_, \_\_getattribute\_\_, \_\_setattr\_\_ 을 사용하라](./summary/BetterWay47.md)  
