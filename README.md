@@ -74,3 +74,4 @@
 [46. 재사용 가능한 @property 메소드를 만들려면 디스크립터를 사용하라](./summary/BetterWay46.md)  
 [47. 지연 계산 애트리뷰트가 필요하면 \_\_getattr\_\_, \_\_getattribute\_\_, \_\_setattr\_\_ 을 사용하라](./summary/BetterWay47.md)  
 [48. \_\_init_subclass\_\_ 를 사용해 하위 클래스를 검증하라](./summary/BetterWay48.md)  
+[49. \_\_init_subclass\_\_ 를 사용해 클래스 확장을 등록하라](./summary/BetterWay49.md)  
