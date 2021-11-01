@@ -75,4 +75,5 @@
 [47. 지연 계산 애트리뷰트가 필요하면 \_\_getattr\_\_, \_\_getattribute\_\_, \_\_setattr\_\_ 을 사용하라](./summary/BetterWay47.md)  
 [48. \_\_init_subclass\_\_ 를 사용해 하위 클래스를 검증하라](./summary/BetterWay48.md)  
 [49. \_\_init_subclass\_\_ 를 사용해 클래스 확장을 등록하라](./summary/BetterWay49.md)  
-[50. \_\_set_name\_\_ 으로 클래스 애트리뷰트를 표시하라](./summary/BetterWay450.md)  
+[50. \_\_set_name\_\_ 으로 클래스 애트리뷰트를 표시하라](./summary/BetterWay50.md)  
+[51. 합성 가능한 클래스 확장이 필요하면 메타클래스보다는 클래스 데코레이터를 사용하라](./summary/BetterWay51.md)  
