@@ -77,3 +77,7 @@
 [49. \_\_init_subclass\_\_ 를 사용해 클래스 확장을 등록하라](./summary/BetterWay49.md)  
 [50. \_\_set_name\_\_ 으로 클래스 애트리뷰트를 표시하라](./summary/BetterWay50.md)  
 [51. 합성 가능한 클래스 확장이 필요하면 메타클래스보다는 클래스 데코레이터를 사용하라](./summary/BetterWay51.md)  
+
+### 7장 동시성과 병렬성
+
+[52. 자식 프로세스를 관리하기 위해 subprocess 를 사용하라](./summary/BetterWay52.md)  
