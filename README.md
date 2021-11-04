@@ -81,3 +81,4 @@
 ### 7장 동시성과 병렬성
 
 [52. 자식 프로세스를 관리하기 위해 subprocess 를 사용하라](./summary/BetterWay52.md)  
+[53. 블로킹 I/O의 경우 스레드를 사용하고 병렬성을 피하라](./summary/BetterWay53.md)  
