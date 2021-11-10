@@ -85,3 +85,4 @@
 [54. 스레드에서 데이터 경합을 피하기 위해 Lock 을 사용하라](./summary/BetterWay54.md)  
 [55. Queue 를 사용해 스레드 사이의 작업을 조율하라](./summary/BetterWay55.md)  
 [56. 언제 동시성이 필요할지 인식하는 방법을 알아두라](./summary/BetterWay56.md)  
+[57. 요구에 따라 팬아웃을 진행하려면 새로운 스레드를 생성하지 말라](./summary/BetterWay57.md)  
