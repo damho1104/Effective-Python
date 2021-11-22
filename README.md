@@ -87,3 +87,4 @@
 [56. 언제 동시성이 필요할지 인식하는 방법을 알아두라](./summary/BetterWay56.md)  
 [57. 요구에 따라 팬아웃을 진행하려면 새로운 스레드를 생성하지 말라](./summary/BetterWay57.md)  
 [58. 동시성과 Queue 를 사용하기 위해 코드를 어떻게 리펙터링해야 하는지 이해하라](./summary/BetterWay58.md)  
+[59. 동시성을 위해 스레드가 필요한 경우에는 ThreadpoolExecutor 를 사용하라](./summary/BetterWay59.md)  
