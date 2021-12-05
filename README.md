@@ -89,3 +89,4 @@
 [58. 동시성과 Queue 를 사용하기 위해 코드를 어떻게 리펙터링해야 하는지 이해하라](./summary/BetterWay58.md)  
 [59. 동시성을 위해 스레드가 필요한 경우에는 ThreadpoolExecutor 를 사용하라](./summary/BetterWay59.md)  
 [60. I/O 를 할 때는 코루틴을 사용해 동시성을 높여라](./summary/BetterWay60.md)  
+[61. 스레드에 사용한 I/O 를 어떻게 asyncio 로 포팅할 수 있는지 알아두라](./summary/BetterWay61.md)  
