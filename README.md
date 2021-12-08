@@ -91,3 +91,4 @@
 [60. I/O 를 할 때는 코루틴을 사용해 동시성을 높여라](./summary/BetterWay60.md)  
 [61. 스레드에 사용한 I/O 를 어떻게 asyncio 로 포팅할 수 있는지 알아두라](./summary/BetterWay61.md)  
 [62. asyncio 로 쉽게 옮겨갈 수 있도록 스레드와 코루틴을 함께 사용하라](./summary/BetterWay62.md)  
+[63. 응답성을 최대로 높이려면 asyncio 이벤트 루프를 블록하지 말라](./summary/BetterWay63.md)  
