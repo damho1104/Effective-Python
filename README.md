@@ -93,3 +93,7 @@
 [62. asyncio 로 쉽게 옮겨갈 수 있도록 스레드와 코루틴을 함께 사용하라](./summary/BetterWay62.md)  
 [63. 응답성을 최대로 높이려면 asyncio 이벤트 루프를 블록하지 말라](./summary/BetterWay63.md)  
 [64. 진정한 병렬성을 살리려면 concurrent.futures 를 사용하라](./summary/BetterWay64.md)  
+
+### 8장 강건성과 성능
+
+[65. try/except/else/finally 의 각 블록을 잘 활용하라](./summary/BetterWay65.md)  
