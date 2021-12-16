@@ -98,3 +98,4 @@
 
 [65. try/except/else/finally 의 각 블록을 잘 활용하라](./summary/BetterWay65.md)  
 [66. 재사용 가능한 try/finally 동작을 원한다면 contextlib 과 with 문을 사용하라](./summary/BetterWay66.md)  
+[67. 지역 시간에는 time 보다는 datetime 을 사용하라](./summary/BetterWay67.md)  
