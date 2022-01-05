@@ -101,3 +101,4 @@
 [67. 지역 시간에는 time 보다는 datetime 을 사용하라](./summary/BetterWay67.md)  
 [68. copyreg 를 사용해 pickle을 더 신뢰성 있게 만들라](./summary/BetterWay68.md)  
 [69. 정확도가 매우 중요한 경우에는 decimal 을 사용하라](./summary/BetterWay69.md)  
+[70. 최적화하기 전에 프로파일링을 하라](./summary/BetterWay70.md)  
