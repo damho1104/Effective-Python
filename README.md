@@ -103,3 +103,4 @@
 [69. 정확도가 매우 중요한 경우에는 decimal 을 사용하라](./summary/BetterWay69.md)  
 [70. 최적화하기 전에 프로파일링을 하라](./summary/BetterWay70.md)  
 [71. 생산자-소비자 큐로 deque 를 사용하라](./summary/BetterWay71.md)  
+[72. 정렬된 시퀀스를 검색할 때는 bisect 를 사용하라](./summary/BetterWay72.md)  
