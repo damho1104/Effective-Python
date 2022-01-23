@@ -105,3 +105,4 @@
 [71. 생산자-소비자 큐로 deque 를 사용하라](./summary/BetterWay71.md)  
 [72. 정렬된 시퀀스를 검색할 때는 bisect 를 사용하라](./summary/BetterWay72.md)  
 [73. 우선순위 큐로 heapq 를 사용하는 방법을 알아두라](./summary/BetterWay73.md)  
+[74. bytes 를 복사하지 않고 다루려면 memoryview와 bytearray를 사용하라](./summary/BetterWay74.md)  
