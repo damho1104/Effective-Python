@@ -106,3 +106,4 @@
 [72. 정렬된 시퀀스를 검색할 때는 bisect 를 사용하라](./summary/BetterWay72.md)  
 [73. 우선순위 큐로 heapq 를 사용하는 방법을 알아두라](./summary/BetterWay73.md)  
 [74. bytes 를 복사하지 않고 다루려면 memoryview와 bytearray를 사용하라](./summary/BetterWay74.md)  
+[75. 디버깅 출력에는 repr 문자열을 사용하라](./summary/BetterWay75.md)  
