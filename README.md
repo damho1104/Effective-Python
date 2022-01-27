@@ -3,6 +3,8 @@
 
 * [『파이썬 코딩의 기술』](http://book.naver.com/bookdb/book_detail.nhn?bid=10382589) 의 Better Way 를 정리 예정
 * 자기가 부족하다고 생각되는 내용 위주로 정리 예정, 아는 내용의 경우 간단하게 요약 혹은 코드로 표현 예정
+* 샘플 코드 참고  
+    * https://github.com/bslatkin/effectivepython
 
 <br>
 
@@ -107,3 +109,4 @@
 [73. 우선순위 큐로 heapq 를 사용하는 방법을 알아두라](./summary/BetterWay73.md)  
 [74. bytes 를 복사하지 않고 다루려면 memoryview와 bytearray를 사용하라](./summary/BetterWay74.md)  
 [75. 디버깅 출력에는 repr 문자열을 사용하라](./summary/BetterWay75.md)  
+[76. TestCase 하위 클래스를 사용해 프로그램에서 연관된 행동 방식을 검증하라](./summary/BetterWay76.md)  
