@@ -2,9 +2,11 @@
 
 
 * [『파이썬 코딩의 기술』](http://book.naver.com/bookdb/book_detail.nhn?bid=10382589) 의 Better Way 를 정리 예정
-* 자기가 부족하다고 생각되는 내용 위주로 정리 예정, 아는 내용의 경우 간단하게 요약 혹은 코드로 표현 예정
-* 샘플 코드 참고  
-    * https://github.com/bslatkin/effectivepython
+* 자기가 부족하다고 생각되는 내용 위주로 정리 예정, 아는 내용의 경우 간단하게 요약 혹은 코드로 표현 예정  
+<br>
+
+## Sample Code Reference  
+* https://github.com/bslatkin/effectivepython
 
 <br>
 
