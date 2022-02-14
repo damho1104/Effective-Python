@@ -114,3 +114,4 @@
 [76. TestCase 하위 클래스를 사용해 프로그램에서 연관된 행동 방식을 검증하라](./summary/BetterWay76.md)  
 [77. setUp, tearDown, setUpModule, tearDownModule 을 사용해 각각의 테스트를 격리하라](./summary/BetterWay77.md)  
 [78. 목을 사용해 의존 관계가 복잡한 코드를 테스트하라](./summary/BetterWay78.md)  
+[79. 의존 관계를 캡슐화해 모킹과 테스트를 쉽게 만들라](./summary/BetterWay79.md)  
