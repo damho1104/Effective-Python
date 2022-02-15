@@ -115,3 +115,4 @@
 [77. setUp, tearDown, setUpModule, tearDownModule 을 사용해 각각의 테스트를 격리하라](./summary/BetterWay77.md)  
 [78. 목을 사용해 의존 관계가 복잡한 코드를 테스트하라](./summary/BetterWay78.md)  
 [79. 의존 관계를 캡슐화해 모킹과 테스트를 쉽게 만들라](./summary/BetterWay79.md)  
+[80. pdb 를 사용해 대화형으로 디버깅하라](./summary/BetterWay80.md)  
