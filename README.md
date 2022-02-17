@@ -110,9 +110,18 @@
 [72. 정렬된 시퀀스를 검색할 때는 bisect 를 사용하라](./summary/BetterWay72.md)  
 [73. 우선순위 큐로 heapq 를 사용하는 방법을 알아두라](./summary/BetterWay73.md)  
 [74. bytes 를 복사하지 않고 다루려면 memoryview와 bytearray를 사용하라](./summary/BetterWay74.md)  
+
+### 9장 테스트와 디버깅
+  
 [75. 디버깅 출력에는 repr 문자열을 사용하라](./summary/BetterWay75.md)  
 [76. TestCase 하위 클래스를 사용해 프로그램에서 연관된 행동 방식을 검증하라](./summary/BetterWay76.md)  
 [77. setUp, tearDown, setUpModule, tearDownModule 을 사용해 각각의 테스트를 격리하라](./summary/BetterWay77.md)  
 [78. 목을 사용해 의존 관계가 복잡한 코드를 테스트하라](./summary/BetterWay78.md)  
 [79. 의존 관계를 캡슐화해 모킹과 테스트를 쉽게 만들라](./summary/BetterWay79.md)  
 [80. pdb 를 사용해 대화형으로 디버깅하라](./summary/BetterWay80.md)  
+[81. 프로그램이 메모리를 사용하는 방식과 메모리 누수를 이해하기 위해 tracemalloc을 사용하라](./summary/BetterWay81.md)  
+
+### 10장 협업
+  
+[82. 커뮤니티에서 만든 모듈을 어디서 찾을 수 있는지 알아두라](./summary/BetterWay82.md)  
+
