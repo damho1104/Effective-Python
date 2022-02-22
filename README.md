@@ -126,4 +126,5 @@
 [82. 커뮤니티에서 만든 모듈을 어디서 찾을 수 있는지 알아두라](./summary/BetterWay82.md)  
 [83. 가상 환경을 사용해 의존 관계를 격리하고 반복 생성할 수 있게 하라](./summary/BetterWay83.md)  
 [84. 모든 함수, 클래스, 모듈에 독스트링을 작성하라](./summary/BetterWay84.md)  
+[85. 패키지를 사용해 모듈을 체계화하고 안정적인 API를 제공하라](./summary/BetterWay85.md)  
 
