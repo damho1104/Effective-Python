@@ -131,4 +131,5 @@
 [87. 호출자를 API로부터 보호하기 위해 최상위 Exception 을 정의하라](./summary/BetterWay87.md)  
 [88. 순환 의존성을 깨는 방법을 알아두라](./summary/BetterWay88.md)  
 [89. 리팩터링과 마이그레이션 방법을 알려주기 위해 warning 을 사용하라](./summary/BetterWay89.md)  
+[90. typing 과 정적 분석을 통해 버그를 없애라](./summary/BetterWay90.md)  
 
